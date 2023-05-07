@@ -1,2 +1,2 @@
-# Projetos-flutter-curso-Daniel-Ciolfi
+# Projetos Flutter Curso Daniel Ciolfi
 projetos do curso
